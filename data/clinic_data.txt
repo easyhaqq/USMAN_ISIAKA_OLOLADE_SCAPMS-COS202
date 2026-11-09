@@ -1,0 +1,46 @@
+# SCAPMS data file v1
+[PATIENTS]
+General|PAT-0001|Amina Bello|21|08031234567|Student
+Emergency|PAT-0002|Musa Abdullahi|45|08059876543|5|Severe chest pain
+Follow-Up|PAT-0003|Ngozi Okafor|34|ngozi.okafor@miva.edu.ng|Malaria|2026-10-20
+General|PAT-0004|Tunde Adeyemi|52|08022233344|Staff
+General|PAT-0005|Chiamaka Eze|19|07065554433|Student
+Emergency|PAT-0006|Ibrahim Sani|28|08127778899|3|Fractured wrist
+Follow-Up|PAT-0007|Fatima Yusuf|61|08091112233|Hypertension|2026-10-28
+General|PAT-0008|David Okon|23|d.okon@miva.edu.ng|Student
+Follow-Up|PAT-0009|Grace Etim|40|08134445566|Typhoid fever|2026-11-02
+General|PAT-0010|Kelechi Nwosu|20|09012345678|Student
+Emergency|PAT-0011|Halima Garba|33|08167654321|2|Allergic reaction
+General|PAT-0012|Samuel Ojo|67|08023456789|Visitor
+Follow-Up|PAT-0013|Blessing Udo|27|blessing.udo@miva.edu.ng|Asthma|2026-09-15
+General|PAT-0014|Yusuf Lawal|24|07034567890|Staff
+General|PAT-0015|Esther Akpan|22|08145678901|Student
+Follow-Up|PAT-0016|Emeka Obi|48|08056789012|Diabetes management|2026-10-30
+[APPOINTMENTS]
+APT-0001|PAT-0001|2026-10-05|09:00|General Consultation|Dr. A. Bello (General Practice)|Completed|Headache and fatigue
+APT-0002|PAT-0001|2026-10-19|10:30|Laboratory Test|Dr. T. Adeyemi (Laboratory)|Completed|Full blood count
+APT-0003|PAT-0003|2026-10-20|11:00|General Consultation|Dr. A. Bello (General Practice)|Completed|Malaria diagnosed
+APT-0004|PAT-0004|2026-10-21|14:00|Dental Check|Dr. F. Musa (Dental)|Completed|Routine check
+APT-0005|PAT-0007|2026-10-28|09:30|General Consultation|Dr. A. Bello (General Practice)|Completed|BP 150/95
+APT-0006|PAT-0001|2026-11-02|09:00|Follow-Up Review|Dr. A. Bello (General Practice)|Completed|Results reviewed
+APT-0007|PAT-0009|2026-11-02|10:00|General Consultation|Dr. A. Bello (General Practice)|Completed|Typhoid fever
+APT-0008|PAT-0005|2026-11-03|13:00|Eye Clinic|Dr. N. Eze (Ophthalmology)|Cancelled|Rescheduled by patient
+APT-0009|PAT-0016|2026-10-30|15:00|Laboratory Test|Dr. T. Adeyemi (Laboratory)|Completed|HbA1c test
+APT-0010|PAT-0004|2026-11-04|11:30|General Consultation|Dr. A. Bello (General Practice)|Completed|Back pain
+APT-0011|PAT-0007|2026-11-05|09:30|Laboratory Test|Dr. T. Adeyemi (Laboratory)|Completed|Kidney function
+APT-0012|PAT-0010|2026-11-06|16:00|Counselling|Mrs. R. Ibrahim (Counsellor)|Completed|Exam stress
+APT-0013|PAT-0002|2026-11-08|13:30|Emergency Care|Dr. C. Okafor (Emergency)|Pending|ECG on arrival
+APT-0014|PAT-0006|2026-11-08|15:00|Emergency Care|Dr. C. Okafor (Emergency)|Pending|X-ray and cast
+APT-0015|PAT-0003|2026-11-09|10:00|Follow-Up Review|Dr. A. Bello (General Practice)|Pending|Post-treatment check
+APT-0016|PAT-0005|2026-11-09|13:00|Eye Clinic|Dr. N. Eze (Ophthalmology)|Pending|Blurred vision
+APT-0017|PAT-0008|2026-11-10|09:00|Vaccination|Dr. A. Bello (General Practice)|Pending|Hepatitis B dose 2
+APT-0018|PAT-0012|2026-11-10|11:00|General Consultation|Dr. A. Bello (General Practice)|Pending|Joint pain
+APT-0019|PAT-0007|2026-11-11|09:30|Follow-Up Review|Dr. A. Bello (General Practice)|Pending|BP review
+APT-0020|PAT-0013|2026-11-11|14:00|Follow-Up Review|Dr. A. Bello (General Practice)|Pending|Inhaler review
+APT-0021|PAT-0014|2026-11-12|10:00|Dental Check|Dr. F. Musa (Dental)|Pending|Toothache
+APT-0022|PAT-0016|2026-11-12|15:00|Follow-Up Review|Dr. A. Bello (General Practice)|Pending|Diabetes review
+APT-0023|PAT-0015|2026-11-13|09:00|General Consultation|Dr. A. Bello (General Practice)|Cancelled|Patient travelled
+APT-0024|PAT-0009|2026-11-16|10:00|Follow-Up Review|Dr. A. Bello (General Practice)|Pending|Widal test review
+APT-0025|PAT-0001|2026-11-17|09:00|Vaccination|Dr. A. Bello (General Practice)|Pending|Tetanus booster
+APT-0026|PAT-0011|2026-11-07|20:15|Emergency Care|Dr. C. Okafor (Emergency)|Completed|Antihistamine given
+APT-0027|PAT-0010|2026-11-18|16:00|Counselling|Mrs. R. Ibrahim (Counsellor)|Pending|Follow-up session
